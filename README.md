@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning .NET
+🌱 I’m currently learning C#
 
 
 ## 🌐 Socials:

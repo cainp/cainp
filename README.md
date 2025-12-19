@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou um estudante de Ciência da Computação movido pela paixão em entender os mecanismos profundos da tecnologia. Minha abordagem técnica se define pela hibridez: busco integrar a estabilidade da **Engenharia de Software Clássica** com o potencial disruptivo da **Computação Quântica**.
 
@@ -29,7 +29,7 @@ Atualmente, concentro meus esforços no desenvolvimento de algoritmos em **Pytho
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### Stack
 
 <div align="center">
 

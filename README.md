@@ -62,12 +62,6 @@ Currently exploring AOSP source code and looking for an **Android Framework inte
 
 ---
 
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cainp&theme=github-compact&hide_border=true&area=true&color=00875a&line=00875a&point=ffffff" />
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caina-pessoa)

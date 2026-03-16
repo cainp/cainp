@@ -5,7 +5,7 @@ Sou um desenvolvedor focado em entender as camadas mais profundas do software. M
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - **Linguagens:** C++, Python, Kotlin, Java, Shell Script.
 - **Android/AOSP:** Android SDK, Logcat, ADB, Bugreport, Análise de `ActivityManagerService`.
@@ -14,7 +14,7 @@ Sou um desenvolvedor focado em entender as camadas mais profundas do software. M
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### [Android System Monitor](https://github.com/cainp/android-monitor)
 Aplicativo nativo para monitoramento de recursos (CPU, Memória, Bateria) em tempo real.
@@ -33,13 +33,13 @@ Simulador de algoritmos de SO (Round Robin, FCFS, SJF) desenvolvido em C++.
 
 ---
 
-## 📚 Atualmente Estudando
+##  Atualmente Estudando
 * **Android Internals:** Leitura do fluxo de `startActivity()` e gerenciamento de processos no System Server.
 * **AOSP:** Documentando anotações sobre a arquitetura do framework em [aosp-notes](https://github.com/cainp/aosp-notes).
 
 ---
 
-## 📬 Contato
+##  Contato
 
 - **LinkedIn:** [in/caina-pessoa](https://linkedin.com/in/caina-pessoa)
 - **E-mail:** cainapessoa@gmail.com

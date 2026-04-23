@@ -20,12 +20,9 @@ Currently exploring AOSP source code and looking for an **Android Framework inte
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -34,14 +31,6 @@ Currently exploring AOSP source code and looking for an **Android Framework inte
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [android-monitor](https://github.com/cainp/android-monitor) | Android app showing real-time CPU, memory & battery via SDK APIs; debugged with logcat & ADB | Kotlin · Android SDK |
-| [process-scheduler](https://github.com/cainp/process-scheduler) | OS process scheduler simulator (Round Robin, FCFS, SJF) with metrics via CLI | C++ · Linux |
-| [android-log-analyzer](https://github.com/cainp/android-log-analyzer) | Python CLI tool that parses logcat & bugreport files, filtering by level, tag and PID | Python · Linux |
-| [aosp-notes](https://github.com/cainp/aosp-notes) | Technical notes on AOSP internals — startActivity() flow, ActivityManagerService and more | Markdown |
 
 ---
 

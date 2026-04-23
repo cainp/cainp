@@ -9,8 +9,7 @@
 ## About
 
 Studying Computer Science at UniFBV – Wyden, Recife (7th semester).  
-Interested in how systems work under the hood — from OS process management to Android Framework internals.  
-Currently exploring AOSP source code and looking for an **Android Framework internship**.
+Interested in how systems work under the hood
 
 ---
 
@@ -31,8 +30,6 @@ Currently exploring AOSP source code and looking for an **Android Framework inte
 
 ---
 
-
----
 
 ## GitHub Stats
 
